@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(189, 128, 138);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    
+}
+div {
+    color: blue;
+    font-size: 36px;
+}
+.another{
+    background-color: rgb(77, 161, 77);
+    font-size: 24px;
+    font-weight: bold;
+    color:black
+}
