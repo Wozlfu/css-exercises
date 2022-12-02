@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+.topmenu{
+    border: 20px solid salmon;
+    padding: 3%;
+    display: flex;
+    text-indent: 0%;
+    padding-top: 1px;
+    padding-bottom: 0%;
+}
+.title{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 20px;;
+}
+.subtitles{
+    text-align: right;
+    padding-right: 3%;
+    padding-left: auto;
+    margin: auto;
+    width: fit-content;
+    height: auto;
+    margin-right: 0%;
+}
